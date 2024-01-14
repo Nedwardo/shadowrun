@@ -4,55 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6a06a62172f2bcf9",
+        "id": "702f8e64b321bbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "89648ebb1456f0df",
+            "id": "53c0154d8a3ef01e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Adam Painter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7bb189a9444a24b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Orgs/Smith & Cock Law Firm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b6a74c6abfe6831",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "317233998ed8170a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Cuckoo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,21 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b6a74c6abfe6831",
+  "active": "53c0154d8a3ef01e",
   "lastOpenFiles": [
-    "People/Kennith Brackhaven Father.md",
     "Project Cuckoo.md",
+    "Trent.md",
+    "Orgs/Silverbackers.md",
+    "Trent",
+    "Untitled.canvas",
+    "People/Adam Painter.md",
+    "2024-01-14.md",
+    "Orgs/Humanus Policlub.md",
+    "People/Kennith Brackhaven (New).md",
+    "People/Jack Essen.md",
+    "Orgs/Smith & Cock Law Firm.md",
+    "workers rights poli clubs.md",
+    "People/Untitled.md",
+    "People/Kennith Brackhaven Father.md",
     "Slang.md",
     "Stuff I picked up.md",
-    "People/Kennith Brackhaven (New).md",
     "People/Kennith Brackhaven (Old).md",
-    "People/Adam Painter.md",
-    "Orgs/Smith & Cock Law Firm.md",
-    "Orgs/Humanus Poli club.md",
     "Orgs",
     "People",
-    "2024-01-14.md",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }

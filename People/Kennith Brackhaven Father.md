@@ -1,1 +1,1 @@
-- Dad was a founder of [[Humanus Poli club]]
+- Dad was a founder of [[Humanus Policlub]]
