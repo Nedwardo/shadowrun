@@ -1,0 +1,6 @@
+- Big bad
+- Racist to Orcs
+- Human
+- Found file documenting ties to  [[Humanus Poli club]],  [[Andromeda children's hospital]] at [[Smith & Cock Law Firm]]
+- Original [[Kennith Brackhaven (New)]] is an Orc
+- Mayor of [[Seattle]]

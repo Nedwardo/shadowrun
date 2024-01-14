@@ -1,0 +1,2 @@
+- Was an orc
+- Mysteriously Transformed to [[Kennith Brackhaven (New)]] through [[Project Cuckoo]]
