@@ -5,7 +5,7 @@
   <appversion>5.224.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>standard_all.xml</settings>
-  <settingshashcode>1060914263</settingshashcode>
+  <settingshashcode>1640957823</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>AP</source>
@@ -142,8 +142,8 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>70</basecarrylimit>
-  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
-  <totalcarriedweight>0.00</totalcarriedweight>
+  <baseliftlimit>105</baseliftlimit>
+  <totalcarriedweight>0.000</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
   <notoriety>0</notoriety>
@@ -152,7 +152,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>4900.00000000001</nuyen>
+  <nuyen>1750.00000000001</nuyen>
   <startingnuyen>450000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -1377,7 +1377,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
       <group>
         <karma>2</karma>
         <base>0</base>
-        <isbroken>False</isbroken>
+        <isbroken>True</isbroken>
         <id>ec1dff8c-c96a-4103-904d-5bcc4a4c13f2</id>
         <name>Stealth</name>
       </group>
@@ -1608,7 +1608,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
       <notes />
       <notesColor>#E3813C</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>8</sortorder>
+      <sortorder>3</sortorder>
     </armor>
     <armor>
       <sourceid>68eabf76-7e06-41a7-8717-2fdce3be8082</sourceid>
@@ -1659,88 +1659,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
       <notes />
       <notesColor>#E3813C</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>9</sortorder>
-    </armor>
-    <armor>
-      <sourceid>fd6e194b-89ea-4030-9203-87341442eadb</sourceid>
-      <guid>f15676f0-4865-4124-993f-0bf828b1eb7b</guid>
-      <name>Helmet</name>
-      <category>Armor</category>
-      <armor>+2</armor>
-      <armoroverride />
-      <armorcapacity>6</armorcapacity>
-      <avail>2</avail>
-      <cost>100</cost>
-      <weight />
-      <source>SR5</source>
-      <page>438</page>
-      <armorname />
-      <equipped>True</equipped>
-      <active>False</active>
-      <homenode>False</homenode>
-      <devicerating />
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <wirelesson>False</wirelesson>
-      <canformpersona />
-      <extra />
-      <damage>0</damage>
-      <rating>0</rating>
-      <maxrating>0</maxrating>
-      <ratinglabel>String_Rating</ratinglabel>
-      <stolen>False</stolen>
-      <emcumbrance>True</emcumbrance>
-      <armormods>
-        <armormod>
-          <guid>ebbfea48-f600-446c-ab0e-1ff569ff0fb8</guid>
-          <sourceid>851f226f-2116-4001-8937-408d4570396e</sourceid>
-          <name>AR Fashion</name>
-          <category>General</category>
-          <armor>0</armor>
-          <armorcapacity>[0]</armorcapacity>
-          <gearcapacity />
-          <maxrating>1</maxrating>
-          <rating>0</rating>
-          <ratinglabel>String_Rating</ratinglabel>
-          <avail>0</avail>
-          <cost>50</cost>
-          <weight />
-          <bonus />
-          <wirelessbonus />
-          <wirelesson>True</wirelesson>
-          <source>CA</source>
-          <page>138</page>
-          <included>False</included>
-          <equipped>True</equipped>
-          <extra />
-          <stolen>False</stolen>
-          <notes>AR FASHION
-This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
-          <notesColor>#E3813C</notesColor>
-          <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
-        </armormod>
-      </armormods>
-      <bonus />
-      <wirelessbonus />
-      <location>af1ebf62-16c1-4697-a5cb-ac6c9c1e7510</location>
-      <notes>Helmet: Helmets come in a wide variety of shapes and sizes and protect your noggin from trauma. Helmets have Capacity 6 for being tricked out with accessories like trode nets and vision enhancements.</notes>
-      <notesColor>#E3813C</notesColor>
-      <discountedcost>False</discountedcost>
-      <sortorder>0</sortorder>
+      <sortorder>4</sortorder>
     </armor>
     <armor>
       <sourceid>5293b8a8-32fd-4df4-ae86-6b909b952432</sourceid>
@@ -1995,7 +1914,7 @@ This enhancement enables your armor and clothing to display a wide variety of AR
       <notes />
       <notesColor>#E3813C</notesColor>
       <discountedcost>False</discountedcost>
-      <sortorder>7</sortorder>
+      <sortorder>2</sortorder>
     </armor>
     <armor>
       <sourceid>a71e62ca-bf6f-43d0-bacf-454908d92fbb</sourceid>
@@ -2068,7 +1987,7 @@ This enhancement enables your armor and clothing to display a wide variety of AR
           <notes />
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
-          <sortorder>3</sortorder>
+          <sortorder>7</sortorder>
         </armormod>
         <armormod>
           <guid>a9c74a9f-2a44-4119-b250-02abf20d585f</guid>
@@ -2128,7 +2047,7 @@ The owner can also use their Contacts to help them get the job done, requiring l
 This feature allows items to be retrieved from the piece of armor with more ease than usual. This means drawing or retrieving items that are set up on the armor takes one lower action. Complex becomes Simple, and Simple becomes Free. Free stays Free, but gamemasters can consider allowing an extra Free Action for the Action Phase.</notes>
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
-          <sortorder>1</sortorder>
+          <sortorder>5</sortorder>
         </armormod>
         <armormod>
           <guid>88af0d57-a91e-4030-affc-dbe422bc93d0</guid>
@@ -2158,7 +2077,7 @@ This feature allows items to be retrieved from the piece of armor with more ease
           <notes>Nonconductivity: Electrical insulation and non-con- ductive materials protect the wearer against Electricity damage (p. 170). Add the full rating of this modification to the Armor value when resisting Electricity attacks.</notes>
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>1</sortorder>
         </armormod>
         <armormod>
           <guid>15727df2-8b58-4e1e-89eb-faae3c7c64db</guid>
@@ -2187,7 +2106,7 @@ This feature allows items to be retrieved from the piece of armor with more ease
 This is some strange stuff. I originally refused to carry it since it was intended to jam up technomancers. Since then some creative individuals have used it as a defensive technique. Depending on which way you direct the fabric, this stuff jams wireless signals.</notes>
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>2</sortorder>
         </armormod>
         <armormod>
           <guid>e70f44f5-2f3b-4b4c-b692-915b2ce2c476</guid>
@@ -2221,7 +2140,7 @@ This is some strange stuff. I originally refused to carry it since it was intend
           <notes>Thermal damping: Designed to reduce your thermal signature, these inner layers capture or bleed heat, so the outer layers maintain a surface temperature equal to the surrounding air. Add the rating to your limit on any Sneak- ing test against thermographic vision or thermal sensors.</notes>
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>3</sortorder>
         </armormod>
         <armormod>
           <guid>62370854-000d-4837-9be2-a1667d246bc4</guid>
@@ -2250,7 +2169,7 @@ This is some strange stuff. I originally refused to carry it since it was intend
 This enhancement enables your armor and clothing to display a wide variety of AR overlays. Due to the ubiquity of AR-enabled vision devices, most people will see the look you choose to display and not the clothes you are actually wearing. This can serve as useful social camouflage. Even when you aren’t wearing the right outfit for a situation, you can look like you are. Creating your own AR clothing can be done with an Artisan + Intuition Extended Test (30 minutes) with a threshold set by the gamemaster based on the complexity and specificity of the overlay you are attempting to create (per Extended Test Threshold Table, p. 48, SR5).</notes>
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
-          <sortorder>0</sortorder>
+          <sortorder>4</sortorder>
         </armormod>
       </armormods>
       <gears>
@@ -2309,7 +2228,7 @@ This enhancement enables your armor and clothing to display a wide variety of AR
           <canswapattributes>False</canswapattributes>
           <active>False</active>
           <homenode>False</homenode>
-          <sortorder>2</sortorder>
+          <sortorder>6</sortorder>
         </gear>
       </gears>
       <bonus />
@@ -2383,6 +2302,57 @@ Industrious 9 6 6 1,100¥ Features: Increase Social Limit by 1 (when wearing clo
       <notesColor>#E3813C</notesColor>
       <discountedcost>False</discountedcost>
       <sortorder>1</sortorder>
+    </armor>
+    <armor>
+      <sourceid>fd6e194b-89ea-4030-9203-87341442eadb</sourceid>
+      <guid>3732f5fe-c634-40ac-b44f-c43b944bc63c</guid>
+      <name>Helmet</name>
+      <category>Armor</category>
+      <armor>+2</armor>
+      <armoroverride />
+      <armorcapacity>6</armorcapacity>
+      <avail>2</avail>
+      <cost>100</cost>
+      <weight />
+      <source>SR5</source>
+      <page>438</page>
+      <armorname />
+      <equipped>True</equipped>
+      <active>False</active>
+      <homenode>False</homenode>
+      <devicerating />
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <wirelesson>False</wirelesson>
+      <canformpersona />
+      <extra />
+      <damage>0</damage>
+      <rating>0</rating>
+      <maxrating>0</maxrating>
+      <ratinglabel>String_Rating</ratinglabel>
+      <stolen>False</stolen>
+      <emcumbrance>True</emcumbrance>
+      <armormods />
+      <bonus />
+      <wirelessbonus />
+      <location>af1ebf62-16c1-4697-a5cb-ac6c9c1e7510</location>
+      <notes>Helmet: Helmets come in a wide variety of shapes and sizes and protect your noggin from trauma. Helmets have Capacity 6 for being tricked out with accessories like trode nets and vision enhancements.</notes>
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <sortorder>0</sortorder>
     </armor>
   </armors>
   <weapons>
@@ -10078,6 +10048,102 @@ As time marches on in the Sixth World, death, greed, and racism seem to be const
         <karmatype>ImproveAttribute</karmatype>
         <nuyentype>ManualAdd</nuyentype>
         <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>f41e5f41-e1b2-4bdf-8628-bff317165fb8</guid>
+      <date>2024-01-17T22:29:26</date>
+      <amount>-350</amount>
+      <reason>Purchased Armor Securetech PPP: Vitals Kit</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>92e551fa-c337-4b7d-bcbe-641109c18a1a</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>0c30c184-98bf-41e0-9b1c-4ed09fdf9f01</guid>
+      <date>2024-01-17T22:31:02</date>
+      <amount>-250</amount>
+      <reason>Purchased Armor Securetech PPP: Arms Kit</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>4d773ee8-8a01-470f-8cf0-89be8fed3668</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>d8c30d5e-0b30-4f9f-9c86-a66651693ffa</guid>
+      <date>2024-01-17T22:34:01</date>
+      <amount>-2250.00</amount>
+      <reason>Purchased Cyberware Armor</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>b4256534-cbad-41be-8ad6-94229cb4a23d</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ae61d51e-2adc-4196-baab-7e105be3eac8</guid>
+      <date>2024-01-17T22:35:00</date>
+      <amount>-100</amount>
+      <reason>Purchased Armor Helmet</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>3732f5fe-c634-40ac-b44f-c43b944bc63c</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>87db1699-74e4-4642-8b1a-060a033b98d9</guid>
+      <date>2024-01-17T22:35:07</date>
+      <amount>-50</amount>
+      <reason>Purchased Armor Mod AR Fashion</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmorMod</nuyentype>
+        <objectid>9a10ad72-1fa3-444e-b2c1-63e7e1e0eebe</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>ad763cd1-d92a-47be-ad2d-ef5118f0cd31</guid>
+      <date>2024-01-17T22:36:41</date>
+      <amount>-150</amount>
+      <reason>Purchased Armor Ballistic Mask</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddArmor</nuyentype>
+        <objectid>7bb9b3f8-1543-43b7-b2d6-7b0c2016d6f5</objectid>
         <qty>0</qty>
         <extra />
       </undo>
