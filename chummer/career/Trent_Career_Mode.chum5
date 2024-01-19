@@ -5,7 +5,7 @@
   <appversion>5.224.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>standard_all.xml</settings>
-  <settingshashcode>1640957823</settingshashcode>
+  <settingshashcode>1408458983</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>AP</source>
@@ -142,7 +142,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>70</basecarrylimit>
-  <baseliftlimit>105</baseliftlimit>
+  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
   <totalcarriedweight>0.000</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
@@ -152,7 +152,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
   <baseastralreputation>0</baseastralreputation>
   <basewildreputation>0</basewildreputation>
   <created>True</created>
-  <nuyen>1750.00000000001</nuyen>
+  <nuyen>2465.00000000001</nuyen>
   <startingnuyen>450000</startingnuyen>
   <nuyenbp>0</nuyenbp>
   <adept>False</adept>
@@ -4276,9 +4276,9 @@ With this modiication, most of the weapon’s moving parts are removed so that i
       <children />
       <gears>
         <gear>
-          <sourceid>929c4835-1754-4999-9215-9859e8ec5384</sourceid>
-          <guid>26fb24b5-6fac-4918-a41a-d053444c6c45</guid>
-          <name>Jazz</name>
+          <sourceid>8dc829b9-8b94-4510-ab1a-2305cbad69c9</sourceid>
+          <guid>fab5c6c4-ec9b-4851-b24f-97c9f483e3df</guid>
+          <name>Cram</name>
           <category>Drugs</category>
           <capacity />
           <armorcapacity />
@@ -4287,7 +4287,7 @@ With this modiication, most of the weapon’s moving parts are removed so that i
           <rating>0</rating>
           <qty>1.0</qty>
           <avail>2R</avail>
-          <cost>75</cost>
+          <cost>10</cost>
           <weight />
           <extra />
           <bonded>False</bonded>
@@ -4312,11 +4312,9 @@ With this modiication, most of the weapon’s moving parts are removed so that i
           <allowrename>False</allowrename>
           <children />
           <location />
-          <notes>JAZZ
-Vector: Inhalation Speed: Immediate Duration: 10 x 1D6 minutes.
-Addiction Type: Both Effect: +1 Reaction, +1 Physical limit, +2D6 Initiative Dice Jazz is a stimulant designed to better the odds for run-of-the-mill law-enforcement officers who run up against augmented street samurai. It’s usually taken from a single-dose inhaler (or “popper”).
-When jazz wears off, the user crashes and is flooded with despondent and miserable emotions, suffering the effects of Disorientation (p. 409) for a duration equal to the duration of the initial effect.
-While cram makes people hyper and twitchy, jazz makes people jumpy and hyper as caffeinated two-yearolds. Role-playing a jazz user means turning it up a notch, portraying someone with too much energy to burn.</notes>
+          <notes>CRAM
+Vector: Ingestion, Inhalation Speed: 10 minutes Duration: (12—Body) hours, minimum 1 hour Addiction Type: Psychological Effect: +1 Reaction, +1D6 Initiative Dice Cram is an extremely popular stimulant. When this drug wears off, users crash and suffer 6 Stun damage (unresisted).
+Cram users appear hyper-alert, almost to the point of paranoia. They react quickly, often without thought, and they’re prone to irrational outbursts. Other common side effects are jitteriness and fidgeting.</notes>
           <notesColor>#E3813C</notesColor>
           <discountedcost>False</discountedcost>
           <programlimit />
@@ -7679,67 +7677,6 @@ There are always rumors in the shadows of this or that megacorp or organization 
       <sortorder>17</sortorder>
     </gear>
     <gear>
-      <sourceid>929c4835-1754-4999-9215-9859e8ec5384</sourceid>
-      <guid>1b3ecb9f-fd64-4fef-9b8f-ce82234e807e</guid>
-      <name>Jazz</name>
-      <category>Drugs</category>
-      <capacity />
-      <armorcapacity />
-      <minrating />
-      <maxrating />
-      <rating>0</rating>
-      <qty>10.0</qty>
-      <avail>2R</avail>
-      <cost>75</cost>
-      <weight />
-      <extra />
-      <bonded>False</bonded>
-      <equipped>True</equipped>
-      <wirelesson>False</wirelesson>
-      <stolen>False</stolen>
-      <bonus />
-      <wirelessbonus />
-      <weaponbonus />
-      <flechetteweaponbonus />
-      <source>SR5</source>
-      <page>411</page>
-      <isflechetteammo>False</isflechetteammo>
-      <ammoforweapontype>spraypen</ammoforweapontype>
-      <canformpersona />
-      <devicerating />
-      <gearname />
-      <forcedvalue />
-      <matrixcmfilled>0</matrixcmfilled>
-      <matrixcmbonus>0</matrixcmbonus>
-      <parentid />
-      <allowrename>False</allowrename>
-      <children />
-      <location />
-      <notes>JAZZ
-Vector: Inhalation Speed: Immediate Duration: 10 x 1D6 minutes.
-Addiction Type: Both Effect: +1 Reaction, +1 Physical limit, +2D6 Initiative Dice Jazz is a stimulant designed to better the odds for run-of-the-mill law-enforcement officers who run up against augmented street samurai. It’s usually taken from a single-dose inhaler (or “popper”).
-When jazz wears off, the user crashes and is flooded with despondent and miserable emotions, suffering the effects of Disorientation (p. 409) for a duration equal to the duration of the initial effect.
-While cram makes people hyper and twitchy, jazz makes people jumpy and hyper as caffeinated two-yearolds. Role-playing a jazz user means turning it up a notch, portraying someone with too much energy to burn.</notes>
-      <notesColor>#E3813C</notesColor>
-      <discountedcost>False</discountedcost>
-      <programlimit />
-      <overclocked>None</overclocked>
-      <attack />
-      <sleaze />
-      <dataprocessing />
-      <firewall />
-      <attributearray />
-      <modattack />
-      <modsleaze />
-      <moddataprocessing />
-      <modfirewall />
-      <modattributearray />
-      <canswapattributes>False</canswapattributes>
-      <active>False</active>
-      <homenode>False</homenode>
-      <sortorder>18</sortorder>
-    </gear>
-    <gear>
       <sourceid>f5ac4b53-82ad-4a2f-8f3d-990e075951f7</sourceid>
       <guid>dfde8a4e-b482-4052-a4e2-a7b51d197dcb</guid>
       <name>Chisel</name>
@@ -8305,6 +8242,65 @@ While cram makes people hyper and twitchy, jazz makes people jumpy and hyper as 
       </children>
       <location />
       <notes />
+      <notesColor>#E3813C</notesColor>
+      <discountedcost>False</discountedcost>
+      <programlimit />
+      <overclocked>None</overclocked>
+      <attack />
+      <sleaze />
+      <dataprocessing />
+      <firewall />
+      <attributearray />
+      <modattack />
+      <modsleaze />
+      <moddataprocessing />
+      <modfirewall />
+      <modattributearray />
+      <canswapattributes>False</canswapattributes>
+      <active>False</active>
+      <homenode>False</homenode>
+      <sortorder>0</sortorder>
+    </gear>
+    <gear>
+      <sourceid>8dc829b9-8b94-4510-ab1a-2305cbad69c9</sourceid>
+      <guid>d085dc54-f17f-4ab1-afa9-d984089b87cf</guid>
+      <name>Cram</name>
+      <category>Drugs</category>
+      <capacity />
+      <armorcapacity />
+      <minrating />
+      <maxrating />
+      <rating>0</rating>
+      <qty>10</qty>
+      <avail>2R</avail>
+      <cost>10</cost>
+      <weight />
+      <extra />
+      <bonded>False</bonded>
+      <equipped>True</equipped>
+      <wirelesson>False</wirelesson>
+      <stolen>False</stolen>
+      <bonus />
+      <wirelessbonus />
+      <weaponbonus />
+      <flechetteweaponbonus />
+      <source>SR5</source>
+      <page>411</page>
+      <isflechetteammo>False</isflechetteammo>
+      <ammoforweapontype>spraypen</ammoforweapontype>
+      <canformpersona />
+      <devicerating />
+      <gearname />
+      <forcedvalue />
+      <matrixcmfilled>0</matrixcmfilled>
+      <matrixcmbonus>0</matrixcmbonus>
+      <parentid />
+      <allowrename>False</allowrename>
+      <children />
+      <location />
+      <notes>CRAM
+Vector: Ingestion, Inhalation Speed: 10 minutes Duration: (12—Body) hours, minimum 1 hour Addiction Type: Psychological Effect: +1 Reaction, +1D6 Initiative Dice Cram is an extremely popular stimulant. When this drug wears off, users crash and suffer 6 Stun damage (unresisted).
+Cram users appear hyper-alert, almost to the point of paranoia. They react quickly, often without thought, and they’re prone to irrational outbursts. Other common side effects are jitteriness and fidgeting.</notes>
       <notesColor>#E3813C</notesColor>
       <discountedcost>False</discountedcost>
       <programlimit />
@@ -10145,6 +10141,54 @@ As time marches on in the Sixth World, death, greed, and racism seem to be const
         <nuyentype>AddArmor</nuyentype>
         <objectid>7bb9b3f8-1543-43b7-b2d6-7b0c2016d6f5</objectid>
         <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>a561a8cb-70c9-4eed-a678-0b7cce04b148</guid>
+      <date>2024-01-19T15:35:20</date>
+      <amount>-10.0</amount>
+      <reason>Purchased Cyberware Gear Cram</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddCyberwareGear</nuyentype>
+        <objectid>fab5c6c4-ec9b-4851-b24f-97c9f483e3df</objectid>
+        <qty>1</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>62dc8d85-cd30-49c8-82da-54e14693e29f</guid>
+      <date>2024-01-19T15:35:38</date>
+      <amount>825</amount>
+      <reason>Jazz</reason>
+      <type>Nuyen</type>
+      <refund>True</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>ManualAdd</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>314bee19-e8bc-460e-aaf2-eb4a4895b688</guid>
+      <date>2024-01-19T15:36:14</date>
+      <amount>-100</amount>
+      <reason>Purchased Gear Cram</reason>
+      <type>Nuyen</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ImproveAttribute</karmatype>
+        <nuyentype>AddGear</nuyentype>
+        <objectid>d085dc54-f17f-4ab1-afa9-d984089b87cf</objectid>
+        <qty>10</qty>
         <extra />
       </undo>
     </expense>
