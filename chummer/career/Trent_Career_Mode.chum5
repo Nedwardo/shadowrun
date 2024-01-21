@@ -5,7 +5,7 @@
   <appversion>5.224.0</appversion>
   <gameedition>SR5</gameedition>
   <settings>standard_all.xml</settings>
-  <settingshashcode>-581863393</settingshashcode>
+  <settingshashcode>-501899305</settingshashcode>
   <buildmethod>Priority</buildmethod>
   <sources>
     <source>AP</source>
@@ -142,7 +142,7 @@ Genda Yu is the Shiawase exec who is on the look out for Trent, they have contac
   <currentcounterspellingdice>0</currentcounterspellingdice>
   <currentliftcarryhits>0</currentliftcarryhits>
   <basecarrylimit>70</basecarrylimit>
-  <baseliftlimit>105</baseliftlimit>
+  <baseliftlimit>-79228162514264337593543950335</baseliftlimit>
   <totalcarriedweight>0.00</totalcarriedweight>
   <encumbranceinterval>-79228162514264337593543950335</encumbranceinterval>
   <streetcred>0</streetcred>
@@ -6455,34 +6455,6 @@ Evo Atlantean: The first set of optimized limbs that had both matching arms and 
       <notesColor>#E3813C</notesColor>
     </quality>
     <quality>
-      <sourceid>dda02333-10e3-4295-9392-691ff3a7bd4a</sourceid>
-      <guid>0d8e2cbf-957c-45a0-ac2c-9640e9799609</guid>
-      <name>Code of Honor</name>
-      <extra>Repays their debts</extra>
-      <bp>-15</bp>
-      <implemented>True</implemented>
-      <contributetobp>True</contributetobp>
-      <contributetolimit>True</contributetolimit>
-      <stagedpurchase>False</stagedpurchase>
-      <doublecareer>True</doublecareer>
-      <canbuywithspellpoints>False</canbuywithspellpoints>
-      <metagenic>False</metagenic>
-      <print>True</print>
-      <qualitytype>Negative</qualitytype>
-      <qualitysource>Selected</qualitysource>
-      <mutant>False</mutant>
-      <source>SR5</source>
-      <page>79</page>
-      <sourcename />
-      <bonus>
-        <selecttext />
-      </bonus>
-      <firstlevelbonus />
-      <naturalweapons />
-      <notes />
-      <notesColor>#E3813C</notesColor>
-    </quality>
-    <quality>
       <sourceid>7653cadb-0092-4a94-9a17-9329fb4f6041</sourceid>
       <guid>4245dad3-0d87-47cc-99df-4c2d4f6ac71e</guid>
       <name>Social Appearance Anxiety</name>
@@ -6797,6 +6769,60 @@ Good thing he kept one account off the books for just such an emergency. Now all
       <notes>PROTOTYPE TRANSHUMAN
 (COST: 10 KARMA)
 There are always rumors in the shadows of this or that megacorp or organization working to build an army of super soldiers. Those rumors always seem to persist, always seem to be around. Some choose to believe,</notes>
+      <notesColor>#E3813C</notesColor>
+    </quality>
+    <quality>
+      <sourceid>8e176d15-e646-4aed-824c-171c6bd9e4bc</sourceid>
+      <guid>79ae4bec-d52c-4ebc-930e-ec8f119387c0</guid>
+      <name>Lightweight</name>
+      <extra />
+      <bp>-6</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>CF</source>
+      <page>58</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes>LIGHTWEIGHT
+(BONUS: 6 KARMA)
+On the bright side, this quality means it’s easy, and cheap, to get drunk. On the downside, it takes far less to get a person addicted to the various types of chemical drugs on the market. The Addiction Rating of any substance on the Addiction Table (p. 414, SR5) or any other related tables is 2 levels higher for the character.</notes>
+      <notesColor>#E3813C</notesColor>
+    </quality>
+    <quality>
+      <sourceid>8d2b32ec-2ddf-40dd-a29b-bf2e85a3d8ca</sourceid>
+      <guid>a9c4cf28-721e-4ba5-874c-3bdafa7a5b1e</guid>
+      <name>Combat Junkie</name>
+      <extra />
+      <bp>-7</bp>
+      <implemented>True</implemented>
+      <contributetobp>True</contributetobp>
+      <contributetolimit>True</contributetolimit>
+      <stagedpurchase>False</stagedpurchase>
+      <doublecareer>True</doublecareer>
+      <canbuywithspellpoints>False</canbuywithspellpoints>
+      <metagenic>False</metagenic>
+      <print>True</print>
+      <qualitytype>Negative</qualitytype>
+      <qualitysource>Selected</qualitysource>
+      <mutant>False</mutant>
+      <source>RG</source>
+      <page>127</page>
+      <sourcename />
+      <bonus />
+      <firstlevelbonus />
+      <naturalweapons />
+      <notes />
       <notesColor>#E3813C</notesColor>
     </quality>
   </qualities>
@@ -8602,30 +8628,6 @@ As time marches on in the Sixth World, death, greed, and racism seem to be const
     </improvement>
     <improvement>
       <target />
-      <improvedname>Repays their debts</improvedname>
-      <sourcename>0d8e2cbf-957c-45a0-ac2c-9640e9799609</sourcename>
-      <min>0</min>
-      <max>0</max>
-      <aug>0</aug>
-      <augmax>0</augmax>
-      <val>0</val>
-      <rating>1</rating>
-      <exclude />
-      <condition />
-      <improvementttype>Text</improvementttype>
-      <improvementsource>Quality</improvementsource>
-      <custom>False</custom>
-      <customname />
-      <customid />
-      <customgroup />
-      <addtorating>False</addtorating>
-      <enabled>True</enabled>
-      <order>0</order>
-      <notes />
-      <notesColor>#E3813C</notesColor>
-    </improvement>
-    <improvement>
-      <target />
       <improvedname>Shiawase</improvedname>
       <sourcename>a98d45fa-c8ef-4918-ad67-3b831a345f5e</sourcename>
       <min>0</min>
@@ -10226,6 +10228,70 @@ As time marches on in the Sixth World, death, greed, and racism seem to be const
         <karmatype>AddSkill</karmatype>
         <nuyentype>AddCyberware</nuyentype>
         <objectid>ead4fcd2-e3b3-4610-8b4d-fc4a96d5c63f</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>4797d6d6-710f-4b04-a584-c8495a1bdeaf</guid>
+      <date>2024-01-21T16:39:18</date>
+      <amount>0</amount>
+      <reason>Gained Negative Quality Lightweight</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>79ae4bec-d52c-4ebc-930e-ec8f119387c0</objectid>
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>7d8c11be-0f86-4d5c-88a6-6c429e6cb001</guid>
+      <date>2024-01-21T16:39:35</date>
+      <amount>30</amount>
+      <reason>Negative Quailty Refund</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>ManualAdd</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid />
+        <qty>0</qty>
+        <extra />
+      </undo>
+    </expense>
+    <expense>
+      <guid>776483aa-abeb-4ee2-a1e5-a29797d6f756</guid>
+      <date>2024-01-21T16:39:46</date>
+      <amount>-30</amount>
+      <reason>Removed Negative Quality Code of Honor</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>RemoveQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>dda02333-10e3-4295-9392-691ff3a7bd4a</objectid>
+        <qty>0</qty>
+        <extra>Repays their debts</extra>
+      </undo>
+    </expense>
+    <expense>
+      <guid>0b53178f-c33b-41cb-9497-bd4bd5f16a2a</guid>
+      <date>2024-01-21T16:40:01</date>
+      <amount>0</amount>
+      <reason>Gained Negative Quality Combat Junkie</reason>
+      <type>Karma</type>
+      <refund>False</refund>
+      <forcecareervisible>False</forcecareervisible>
+      <undo>
+        <karmatype>AddQuality</karmatype>
+        <nuyentype>AddCyberware</nuyentype>
+        <objectid>a9c4cf28-721e-4ba5-874c-3bdafa7a5b1e</objectid>
         <qty>0</qty>
         <extra />
       </undo>
