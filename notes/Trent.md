@@ -7,4 +7,4 @@
 ## Character Build Next steps:
 - Skill Wires
 - Cerebellum booster
-- 
+- Armour 
