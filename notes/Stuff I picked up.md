@@ -1,1 +1,0 @@
-- [[Six wing seraph pad]]

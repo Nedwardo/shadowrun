@@ -1,4 +1,4 @@
-7000 Nuyen
-23 Karma
+12000 Nuyen
+28 Karma
 
 
