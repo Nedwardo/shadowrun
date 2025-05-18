@@ -1,2 +1,0 @@
-- Ceo of [[Smith & Cock Law Firm]]
-- Cheating on his wife

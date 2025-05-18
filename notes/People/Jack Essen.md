@@ -1,2 +1,0 @@
-- Was once involved with [[Workers Rights Policlub]]
-- Has health issues
